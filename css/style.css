@@ -154,7 +154,7 @@ img {
     PARTE BONUS 
 ****************************************/
 /*potevo essere piu specifico per la dimensione tra 768px e 1160px ma cosi , con meno righe di codice l'ho sistemato anche per viewport minori*/
-@media screen and (max-width:1160px){
+@media screen and (max-width:1160px) {
     .container{
         width: 100%;
     }
